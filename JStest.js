@@ -34,7 +34,7 @@ function listNFTs () {
       console.log("Area :\t\t"+Players[i].PlayerName);
       console.log("Country :\t\t"+Players[i].country);
       console.log("SportName :\t\t"+Players[i].SportName);
-      console.log("Rankin :\t\t"+Players[i].Ranking);
+      console.log("Ranking :\t\t"+Players[i].Ranking);
       console.log("Net_worth :\t\t"+Players[i].Net_worth);
    }
 
